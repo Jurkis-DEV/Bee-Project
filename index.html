@@ -274,6 +274,7 @@
             padding: 0.8rem 1rem;
             margin-bottom: 1.2rem;
             cursor: pointer;
+            user-select: none;
         }
 
         .pickup-wrap input[type="checkbox"] {
@@ -480,10 +481,10 @@
                     <div class="section-label">Doručení</div>
                 </div>
 
-                <div class="pickup-wrap" onclick="document.getElementById('pickup').click()">
+                <label class="pickup-wrap" for="pickup">
                     <input type="checkbox" id="pickup" name="pickup">
-                    <label for="pickup">🚗 Osobní odběr (přijedu si sám)</label>
-                </div>
+                    <span>🚗 Osobní odběr (přijedu si sám)</span>
+                </label>
 
                 <div id="addressGroup" class="form-group">
                     <label for="address">Doručovací adresa *</label>
