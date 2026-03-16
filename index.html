@@ -545,17 +545,17 @@
         submitBtn.textContent = 'Odesílám...';
 
         const formData = {
-            honey: document.getElementById('honey').value,
-            queens_fertilized: document.getElementById('queens_fertilized').value,
-            queens_unfertilized: document.getElementById('queens_unfertilized').value,
+            med: document.getElementById('honey').value,
+            matky_oplozene: document.getElementById('queens_fertilized').value,
+            matky_neoplozene: document.getElementById('queens_unfertilized').value,
             oddelky: document.getElementById('oddelky').value,
-            name: document.getElementById('name').value,
-            phone: document.getElementById('phone').value,
+            jmeno: document.getElementById('name').value,
+            telefon: document.getElementById('phone').value,
             email: document.getElementById('email').value,
-            pickup: pickupCheckbox.checked ? 'Ano' : 'Ne',
-            address: pickupCheckbox.checked ? 'Osobní odběr' : document.getElementById('address').value,
-            note: document.getElementById('note').value,
-            timestamp: new Date().toLocaleString('cs-CZ')
+            osobni_odber: pickupCheckbox.checked ? 'Ano' : 'Ne',
+            adresa: pickupCheckbox.checked ? 'Osobní odběr' : document.getElementById('address').value,
+            poznamka: document.getElementById('note').value,
+            cas: new Date().toLocaleString('cs-CZ')
         };
 
         try {
