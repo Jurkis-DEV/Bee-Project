@@ -18,8 +18,8 @@
 
 | Co | URL |
 |---|---|
-| **Živý web** | https://jurkis-dev.github.io/bee-project/ |
-| **GitHub Repository** | https://github.com/Jurkis-DEV/bee-project |
+| **Živý web** | https://jurkis-dev.github.io/Bee-Project/ |
+| **GitHub Repository** | https://github.com/Jurkis-DEV/Bee-Project |
 | **Google Apps Script** | https://script.google.com/u/0/home/projects/1RmXPQ_rjsZxmU4HiPv4Hp6IiSxJYWN7Kc8ByquncGFWfs7aorbE_F6QC/edit |
 | **Script URL (webová aplikace)** | https://script.google.com/macros/s/AKfycbwnWm3_aDReTGiJMVRasASioI-NVHUbm9WXvaOZ7irIc2DifOikXPCCPM6fKd5B9w/exec |
 
@@ -120,7 +120,7 @@ https://script.google.com/macros/s/AKfycbwnWm3_aDReTGiJMVRasASioI-NVHUbm9WXvaOZ7
 
 ## 💻 ČÁST 3: Webová stránka (HTML)
 
-### Kde: GitHub - https://github.com/Jurkis-DEV/bee-project
+### Kde: GitHub - https://github.com/Jurkis-DEV/Bee-Project
 
 ### Soubor: `index.html`
 
@@ -146,7 +146,7 @@ const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwnWm3_aDReTGiJMVRas
 
 ### Živá adresa webu:
 ```
-https://jurkis-dev.github.io/bee-project/
+https://jurkis-dev.github.io/Bee-Project/
 ```
 
 **ℹ️ Po každé změně v `index.html` trvá 1-2 minuty, než se web aktualizuje.**
@@ -209,7 +209,7 @@ https://jurkis-dev.github.io/bee-project/
 ### Postup:
 
 1. **Stáhni aktuální HTML:**
-   - Jdi na GitHub: https://github.com/Jurkis-DEV/bee-project
+   - Jdi na GitHub: https://github.com/Jurkis-DEV/Bee-Project
    - Klikni na `index.html`
    - Klikni na tlačítko "Raw"
    - Pravé tlačítko → Uložit jako → `index.html`
@@ -267,7 +267,7 @@ info@vcelarstvi.cz
 
 ### Testovací postup:
 
-1. **Otevři web:** https://jurkis-dev.github.io/bee-project/
+1. **Otevři web:** https://jurkis-dev.github.io/Bee-Project/
 2. **Vyplň testovací objednávku:**
    - Počet medu: 2
    - Počet královen: 1  
@@ -301,8 +301,8 @@ info@vcelarstvi.cz
 ### Pro jistotu si zkopíruj:
 
 ✅ **Script URL:** https://script.google.com/macros/s/AKfycbwnWm3_aDReTGiJMVRasASioI-NVHUbm9WXvaOZ7irIc2DifOikXPCCPM6fKd5B9w/exec  
-✅ **GitHub repo:** https://github.com/Jurkis-DEV/bee-project  
-✅ **Živý web:** https://jurkis-dev.github.io/bee-project/  
+✅ **GitHub repo:** https://github.com/Jurkis-DEV/Bee-Project  
+✅ **Živý web:** https://jurkis-dev.github.io/Bee-Project/  
 ✅ **Email:** jiri.hymon@gmail.com
 
 ---
